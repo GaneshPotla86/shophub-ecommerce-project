@@ -11,7 +11,7 @@ This project uses **CodeRabbit** to automatically review pull requests and catch
 
 ### How to Integrate CodeRabbit
 
-1. Go to **[https://coderabbit.link/pedro](https://coderabbit.link/pedro)**
+1. Go to **[https://coderabbit.link/ganeshpotla](https://coderabbit.link/ganeshpotla)**
 2. Install CodeRabbit on your GitHub account
 3. Enable it for this repository
 4. Open a Pull Request
